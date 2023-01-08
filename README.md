@@ -6,3 +6,7 @@
 
 - [Akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software 
 - [Limesurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web
+
+## Design and Themes
+
+- [Hugo DPSG Theme](https://github.com/pfadfinder-konstanz/hugo-dpsg) - Hugo theme based on the DPSG theme for German scout websites
