@@ -15,4 +15,8 @@
 
 ### 3D Printed Objects
 
-- [DPSG Lilie Cookie Cutter on Thingyverse](https://www.thingiverse.com/thing:2813174/files)
+- [DPSG Lilie Cookie Cutter on Thingyverse](https://www.thingiverse.com/thing:4672759)
+- [Pfadi Stufe Cookie Cutter on Thingyverse](https://www.thingiverse.com/thing:4646424)
+- [Jupfi Stufe Cookie Cutter on Thingyverse](https://www.thingiverse.com/thing:4646408)
+- [Wölflings Stufe Cookie Cutter on Thingyverse](https://www.thingiverse.com/thing:4646398)
+- [Biber Stufe Cookie Cutter on Thingyverse](https://www.thingiverse.com/thing:4646427)
