@@ -13,6 +13,8 @@ This awesome list collects Open Source projects, web applications, interesting w
   - [Design and Themes](#design-and-themes)
   - [DIY](#diy)
     - [3D Printed Objects](#3d-printed-objects)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Self Hosted Web Applications
 
@@ -33,3 +35,13 @@ This awesome list collects Open Source projects, web applications, interesting w
 - [Jupfi Stufe Cookie Cutter on Thingyverse](https://www.thingiverse.com/thing:4646408)
 - [Wölflings Stufe Cookie Cutter on Thingyverse](https://www.thingiverse.com/thing:4646398)
 - [Biber Stufe Cookie Cutter on Thingyverse](https://www.thingiverse.com/thing:4646427)
+
+---
+
+## Contributing
+
+Contributing guidelines can be found in [.github/CONTRIBUTING.md](.github/CONTRIBUTING.md).
+
+## License
+
+This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) License.
