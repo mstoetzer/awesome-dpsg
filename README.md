@@ -1,12 +1,22 @@
-# Awesome-DPSG
+# Awesome DPSG
 
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This awesome list collects Open Source projects, web applications, interesting work, maker things and other useful stuff for DPSG folks. Feel free to add entries via PR.
+This awesome list collects Open Source projects, web applications, interesting work, maker things and other useful stuff for DPSG folks. Feel free to add entries via PR (See [Contributing](.github/CONTRIBUTING.md)).
+
+---
+
+## Table of contents <!-- omit from toc -->
+
+- [Awesome DPSG](#awesome-dpsg)
+  - [Self Hosted Web Applications](#self-hosted-web-applications)
+  - [Design and Themes](#design-and-themes)
+  - [DIY](#diy)
+    - [3D Printed Objects](#3d-printed-objects)
 
 ## Self Hosted Web Applications
 
-- [Akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software 
+- [Akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software
 - [Limesurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web
 
 ## Design and Themes
