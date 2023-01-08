@@ -10,6 +10,7 @@ This awesome list collects Open Source projects, web applications, interesting w
 
 - [Awesome DPSG](#awesome-dpsg)
   - [Self Hosted Web Applications](#self-hosted-web-applications)
+  - [NaMi Helper Tools](#nami-helper-tools)
   - [Design and Themes](#design-and-themes)
   - [DIY](#diy)
     - [3D Printed Objects](#3d-printed-objects)
@@ -20,6 +21,8 @@ This awesome list collects Open Source projects, web applications, interesting w
 
 - [Akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software
 - [Limesurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web
+
+## NaMi Helper Tools
 
 ## Design and Themes
 
