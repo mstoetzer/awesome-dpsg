@@ -28,6 +28,8 @@ This awesome list collects Open Source projects, web applications, interesting w
 
 ## NaMi Helper Tools
 
+- [NaMi Antragshelfer](https://github.com/tobiasmiosczka/nami-antragshelfer) - Programm zum Ausfüllen von Förderungsanträgen und Generieren von Notfall-Telefonlisten
+
 ## Design and Themes
 
 - [Hugo DPSG Theme](https://github.com/pfadfinder-konstanz/hugo-dpsg) - Hugo theme based on the DPSG theme for German scout websites
