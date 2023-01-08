@@ -21,6 +21,7 @@ This awesome list collects Open Source projects, web applications, interesting w
 
 - [Akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software
 - [Limesurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web
+- [OpenSlides](https://github.com/OpenSlides/OpenSlides) - free, web based presentation system for managing agenda, motions and elections of an assembly
 
 ## NaMi Helper Tools
 
