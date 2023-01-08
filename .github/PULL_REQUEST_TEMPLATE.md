@@ -15,3 +15,5 @@ Folgende Checkliste sollte Dir beim PR helfen:
   - `Add aaa to bbb` anstatt `Update README.md`
 
 -->
+
+Ich füge hiermit XY hinzu. Es ist toll, weil X und Y.
