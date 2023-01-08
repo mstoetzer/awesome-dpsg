@@ -29,6 +29,7 @@ This awesome list collects Open Source projects, web applications, interesting w
 ## NaMi Helper Tools
 
 - [NaMi Antragshelfer](https://github.com/tobiasmiosczka/nami-antragshelfer) - Programm zum Ausfüllen von Förderungsanträgen und Generieren von Notfall-Telefonlisten
+- [NaMi Beitragsrechner](https://github.com/f1shl/nami-beitragsrechner) - Automatische Erstellung von Lastschrifteinzügen aus der NaMi
 
 ## Design and Themes
 
