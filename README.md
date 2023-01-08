@@ -24,6 +24,7 @@ This awesome list collects Open Source projects, web applications, interesting w
 - [OpenSlides](https://github.com/OpenSlides/OpenSlides) - Free, web based presentation system for managing agenda, motions and elections of an assembly
 - [Antragsgruen](https://github.com/CatoTH/antragsgruen) - Managing motions and amendments for political conventions
 - [Piwigo](https://github.com/Piwigo/Piwigo) - A full featured open source photo gallery application for the web
+- [Lychee](https://github.com/LycheeOrg/Lychee) - A free and great looking and easy-to-use photo-management-system
 
 ## NaMi Helper Tools
 
