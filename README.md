@@ -2,6 +2,8 @@
 
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+This awesome list collects Open Source projects, web applications, interesting work, maker things and other useful stuff for DPSG folks. Feel free to add entries via PR.
+
 ## Self Hosted Web Applications
 
 - [Akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software 
