@@ -10,3 +10,9 @@
 ## Design and Themes
 
 - [Hugo DPSG Theme](https://github.com/pfadfinder-konstanz/hugo-dpsg) - Hugo theme based on the DPSG theme for German scout websites
+
+## DIY
+
+### 3D Printed Objects
+
+- [DPSG Lilie Cookie Cutter on Thingyverse](https://www.thingiverse.com/thing:2813174/files)
