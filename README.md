@@ -10,6 +10,7 @@
 ## Design and Themes
 
 - [Hugo DPSG Theme](https://github.com/pfadfinder-konstanz/hugo-dpsg) - Hugo theme based on the DPSG theme for German scout websites
+- [Wordpress DPSG Theme](https://dpsg.de/de/leitende-mitarbeitende/oeffentlichkeitsarbeit/logos-material-vorlagen/wordpress-theme) - Official Wordpress Theme by Gerridt Passoth
 
 ## DIY
 
