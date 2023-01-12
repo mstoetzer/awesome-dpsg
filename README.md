@@ -25,6 +25,7 @@ This awesome list collects Open Source projects, web applications, interesting w
 - [Antragsgruen](https://github.com/CatoTH/antragsgruen) - Managing motions and amendments for political conventions
 - [Piwigo](https://github.com/Piwigo/Piwigo) - A full featured open source photo gallery application for the web
 - [Lychee](https://github.com/LycheeOrg/Lychee) - A free and great looking and easy-to-use photo-management-system
+- [knotnpunkt](https://github.com/dpsg-beckum/knotnpunkt) - `Work in progress` Material management for scout groups
 
 ## NaMi Helper Tools
 
