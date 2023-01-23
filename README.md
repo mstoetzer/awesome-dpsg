@@ -32,6 +32,7 @@ This awesome list collects Open Source projects, web applications, interesting w
 - [NaMi Antragshelfer](https://github.com/tobiasmiosczka/nami-antragshelfer) - Programm zum Ausfüllen von Förderungsanträgen und Generieren von Notfall-Telefonlisten
 - [NaMi Beitragsrechner](https://github.com/f1shl/nami-beitragsrechner) - Automatische Erstellung von Lastschrifteinzügen aus der NaMi
 - [NaMi Mobile App](https://github.com/digital-scouts/dpsg-nami-app) - `Work in Progress` Mobile App for NaMi built with Flutter
+- [NaMi EfZ Check](https://github.com/maehw/nami-efz-check) - Automate check of SGB VIII-Bescheinigung by its Identifikationsnummer (Erweitertes Führzungszeugnis, EfZ) by querying the NaMi web server
 
 ## Design and Themes
 
