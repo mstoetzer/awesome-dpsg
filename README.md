@@ -34,6 +34,7 @@ This awesome list collects Open Source projects, web applications, interesting w
 - [NaMi Beitragsrechner](https://github.com/f1shl/nami-beitragsrechner) - Automatische Erstellung von Lastschrifteinzügen aus der NaMi
 - [NaMi Mobile App](https://github.com/digital-scouts/dpsg-nami-app) - `Work in Progress` Mobile App for NaMi built with Flutter
 - [NaMi EfZ Check](https://github.com/maehw/nami-efz-check) - Automate check of SGB VIII-Bescheinigung by its Identifikationsnummer (Erweitertes Führzungszeugnis, EfZ) by querying the NaMi web server
+- [NaMi cli](https://github.com/webratz/pynami) - `alpha state` Cli to interact with NaMi API
 
 ## Design and Themes
 
@@ -54,7 +55,7 @@ This awesome list collects Open Source projects, web applications, interesting w
 
 ## Contributing
 
-Contributing guidelines can be found in [.github/CONTRIBUTING.md](.github/CONTRIBUTING.md).
+Contributing guidelines can be found in [CONTRIBUTING.md](.github/CONTRIBUTING.md).
 
 ## License
 
