@@ -40,6 +40,8 @@ This awesome list collects Open Source projects, web applications, interesting w
 
 - [Hugo DPSG Theme](https://github.com/pfadfinder-konstanz/hugo-dpsg) - Hugo theme based on the DPSG theme for German scout websites
 - [Wordpress DPSG Theme](https://dpsg.de/de/leitende-mitarbeitende/oeffentlichkeitsarbeit/logos-material-vorlagen/wordpress-theme) - Official Wordpress Theme by Gerridt Passoth
+- [LaTeX DPSG Template](https://github.com/fabianlipp/latex-dpsg) - LaTeX template for the corporate design of the DPSG
+- [LaTeX DPSG Report](https://github.com/thisni1s/dpsg-report-latex) - LaTeX template for reports in the DPSG corporate design style
 
 ## DIY
 
