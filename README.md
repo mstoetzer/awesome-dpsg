@@ -26,7 +26,7 @@ This awesome list collects Open Source projects, web applications, interesting w
 - [Piwigo](https://github.com/Piwigo/Piwigo) - A full featured open source photo gallery application for the web
 - [Lychee](https://github.com/LycheeOrg/Lychee) - A free and great looking and easy-to-use photo-management-system
 - [knotnpunkt](https://github.com/dpsg-beckum/knotnpunkt) - `Work in progress` Material management for scout groups
-- [Adrema](https://git.zoomyboy.de/silva/adrema) - Management for group members and frontend for NaMi
+- [Adrema](https://github.com/zoomyboy/adrema) - Management for group members and frontend for NaMi
 
 ## NaMi Helper Tools
 
