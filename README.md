@@ -21,6 +21,7 @@ This awesome list collects Open Source projects, web applications, interesting w
 
 - [Akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software
 - [Limesurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web
+- [Bookstack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content
 - [OpenSlides](https://github.com/OpenSlides/OpenSlides) - Free, web based presentation system for managing agenda, motions and elections of an assembly
 - [Antragsgruen](https://github.com/CatoTH/antragsgruen) - Managing motions and amendments for political conventions
 - [Piwigo](https://github.com/Piwigo/Piwigo) - A full featured open source photo gallery application for the web
