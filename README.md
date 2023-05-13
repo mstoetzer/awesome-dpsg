@@ -26,6 +26,7 @@ This awesome list collects Open Source projects, web applications, interesting w
 - [Antragsgruen](https://github.com/CatoTH/antragsgruen) - Managing motions and amendments for political conventions
 - [Piwigo](https://github.com/Piwigo/Piwigo) - A full featured open source photo gallery application for the web
 - [Lychee](https://github.com/LycheeOrg/Lychee) - A free and great looking and easy-to-use photo-management-system
+- [Seatsurfing](https://seatsurfing.app/) - Webbased app to book seats, desks and rooms for offices. Can be used for Gruppenraum ([Demo](https://seatsurfing.app/get-started/), [Source Code](https://github.com/seatsurfing/backend)) `GPL-3.0` `Docker`
 - [knotnpunkt](https://github.com/dpsg-beckum/knotnpunkt) - `Work in progress` Material management for scout groups
 - [Adrema](https://github.com/zoomyboy/adrema) - Management for group members and frontend for NaMi
 
