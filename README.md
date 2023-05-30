@@ -21,6 +21,7 @@ This awesome list collects Open Source projects, web applications, interesting w
     - [Germany](#germany)
     - [International](#international)
   - [For parents and legal guardians](#for-parents-and-legal-guardians)
+  - [Other online resources](#other-online-resources)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -94,6 +95,18 @@ This awesome list collects Open Source projects, web applications, interesting w
 ## For parents and legal guardians
 - [FAQ für Eltern](https://dpsg.de/de/mach-mit/mitglied-werden/informationen-fuer-eltern) - Eltern-Info-Portal der DPSG
 - [Stammessuche](https://dpsg.de/de/stammessuche-20) - Suchmaschine für DPSG-Stämme vor Ort
+
+## Other online resources
+- [Querweltein/Zeltgeflüster](https://dpsg.de/de/magazin) - Verbandsmagazin online abrufen
+- [ScoutingNeverStops.de](https://www.scoutingneverstops.de/) - Ideensammlung aus der Corona-Pandemie
+- [DoesTheDogDie](https://www.doesthedogdie.com/) - Communitygestützte Unbedenklichkeitsprüfung von Filmen
+- [MyOSMatic](https://print.get-map.org/) - Kostenlose Landkarten aud OSM-Basis erstellen
+- [Pfadfinder Lagerfeuer Playlist](https://open.spotify.com/playlist/0SuPlHCl8sVmhOOuJA49WD) - Spotify Playlist
+-  [Jugendleiter Blog](https://www.jugendleiter-blog.de/)
+-  [Pfadfinder-Spiele.de](https://pfadfinder-spiele.de/)
+-  The DIG Studios: [Instagram](https://www.instagram.com/thedigstudios/),  [YouTube](https://www.youtube.com/@thedigstudios/videos)
+-  [100abentuer.de](https://100abenteuer.dpsg.de/wp/) - Sammlung Juffistufe
+-  [Rover-Wiki](https://wiki.rover.de) - Leitungs-Wiki für die Roverstufe
 
 ---
 
