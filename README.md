@@ -20,6 +20,7 @@ This awesome list collects Open Source projects, web applications, interesting w
   - [Events and initiatives](#events-and-initiatives)
     - [Germany](#germany)
     - [International](#international)
+  - [For parents and legal guardians](#for-parents-and-legal-guardians)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -89,6 +90,10 @@ This awesome list collects Open Source projects, web applications, interesting w
 - [iScout](https://iscoutgame.com/en/home) - Internationales gelichzeitiges online-Spiel 
 - [Friedenslicht](https://www.friedenslicht.de/) - Friedenslicht aus Bethlehem
 - [JOTA-JOTI](https://jota-joti.de/) - Jamboree on the air - Jamobree on the Internet
+
+## For parents and legal guardians
+- [FAQ für Eltern](https://dpsg.de/de/mach-mit/mitglied-werden/informationen-fuer-eltern) - Eltern-Info-Portal der DPSG
+- [Stammessuche](https://dpsg.de/de/stammessuche-20) - Suchmaschine für DPSG-Stämme vor Ort
 
 ---
 
