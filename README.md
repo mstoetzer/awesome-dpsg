@@ -37,6 +37,7 @@ This awesome list collects Open Source projects, web applications, interesting w
 - [NaMi Mobile App](https://github.com/digital-scouts/dpsg-nami-app) - `Work in Progress` Mobile App for NaMi built with Flutter
 - [NaMi EfZ Check](https://github.com/maehw/nami-efz-check) - Automate check of SGB VIII-Bescheinigung by its Identifikationsnummer (Erweitertes Führzungszeugnis, EfZ) by querying the NaMi web server
 - [NaMi cli](https://github.com/webratz/pynami) - `alpha state` Cli to interact with NaMi API
+- [Nami doku](https://doku.dpsg.de/spacedirectory/view.action) - Nami Dokumentation
 
 ## Design and Themes
 
