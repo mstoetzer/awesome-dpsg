@@ -14,6 +14,9 @@ This awesome list collects Open Source projects, web applications, interesting w
   - [Design and Themes](#design-and-themes)
   - [DIY](#diy)
     - [3D Printed Objects](#3d-printed-objects)
+  - [News and Social Media](#news-and-social-media)
+    - [Instagram](#instagram)
+    - [Newsletters](#newsletter)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -56,6 +59,23 @@ This awesome list collects Open Source projects, web applications, interesting w
 - [Wölflings Stufe Cookie Cutter on Thingiverse](https://www.thingiverse.com/thing:4646398)
 - [Biber Stufe Cookie Cutter on Thingiverse](https://www.thingiverse.com/thing:4646427)
 
+## News and Social Media
+
+### Instagram
+- [@dpsg_de](https://www.instagram.com/dpsg.de/) -  DPSG Bundesebene
+- [@roverstufe](https://www.instagram.com/roverstufe/) -  BAK Roverstufe
+- [@kobold_official](https://www.instagram.com/kobold_official/) -  BAK Juffistufe
+- [@dpsg.pfadis](https://www.instagram.com/dpsg.pfadis/) -  BAK Pfadistufe
+- [@westernohe](https://www.instagram.com/bundeszentrum_westernohe/) -  DPSG Bundeszetrum Westernohe
+- [@fsj_in_westernohe](https://www.instagram.com/fsj_in_westernohe/) -  FSJler*innen im DPSG Bundeszetrum Westernohe
+- [@rdppfadfinden](https://www.instagram.com/rdppfadfinden/) - RDP Bundesebene
+ 
+### Newsletter
+- [dpsg_de](https://t.me/dpsg_de) - Telegram-Newsletter der DPSG Bundesebene
+- [dpsg_bv](https://t.me/dpsg_bv) - Telegram-Liveticker zu den Bundesversammlungen
+- [dpsgpfadis](https://t.me/dpsgrover) - Telegram-Newsletter des BAK Roverstufe
+- [roverstufe](https://t.me/dpsgpfadis) - Telegram-Newsletter der BAK Pfadistufe
+- [https://dpsg.de/de#3127079](https://dpsg.de/de#3127079) - Email-Newsletter der DPSG Bundesebene
 ---
 
 ## Contributing
