@@ -17,6 +17,9 @@ This awesome list collects Open Source projects, web applications, interesting w
   - [News and Social Media](#news-and-social-media)
     - [Instagram](#instagram)
     - [Newsletters](#newsletter)
+  - [Events and initiatives](#events-and-initiatives)
+    - [Germany](#germany)
+    - [International](#international)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -76,6 +79,17 @@ This awesome list collects Open Source projects, web applications, interesting w
 - [dpsgpfadis](https://t.me/dpsgrover) - Telegram-Newsletter des BAK Roverstufe
 - [roverstufe](https://t.me/dpsgpfadis) - Telegram-Newsletter der BAK Pfadistufe
 - [https://dpsg.de/de#3127079](https://dpsg.de/de#3127079) - Email-Newsletter der DPSG Bundesebene
+
+## Events and initiatives
+
+### Germany
+- [IronScout](https://ironscout2023.de/ironscout/) - Ironcout 2023
+
+### International
+- [iScout](https://iscoutgame.com/en/home) - Internationales gelichzeitiges online-Spiel 
+- [Friedenslicht](https://www.friedenslicht.de/) - Friedenslicht aus Bethlehem
+- [JOTA-JOTI](https://jota-joti.de/) - Jamboree on the air - Jamobree on the Internet
+
 ---
 
 ## Contributing
