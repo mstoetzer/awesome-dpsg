@@ -46,6 +46,7 @@ This awesome list collects Open Source projects, web applications, interesting w
 - [NaMi EfZ Check](https://github.com/maehw/nami-efz-check) - Automate check of SGB VIII-Bescheinigung by its Identifikationsnummer (Erweitertes Führzungszeugnis, EfZ) by querying the NaMi web server
 - [NaMi cli](https://github.com/webratz/pynami) - `alpha state` Cli to interact with NaMi API
 - [Nami doku](https://doku.dpsg.de/spacedirectory/view.action) - Nami Dokumentation
+- [NaMi Sepa](https://github.com/thisni1s/nami-sepa) - Tool to extract sepa mandates from NaMi and create SEPA XML files for direct debits.
 
 ## Design and Themes
 
@@ -74,7 +75,7 @@ This awesome list collects Open Source projects, web applications, interesting w
 - [@westernohe](https://www.instagram.com/bundeszentrum_westernohe/) -  DPSG Bundeszetrum Westernohe
 - [@fsj_in_westernohe](https://www.instagram.com/fsj_in_westernohe/) -  FSJler*innen im DPSG Bundeszetrum Westernohe
 - [@rdppfadfinden](https://www.instagram.com/rdppfadfinden/) - RDP Bundesebene
- 
+
 ### Newsletter
 - [dpsg_de](https://t.me/dpsg_de) - Telegram-Newsletter der DPSG Bundesebene
 - [dpsg_bv](https://t.me/dpsg_bv) - Telegram-Liveticker zu den Bundesversammlungen
@@ -88,7 +89,7 @@ This awesome list collects Open Source projects, web applications, interesting w
 - [IronScout](https://ironscout2023.de/ironscout/) - Ironcout 2023
 
 ### International
-- [iScout](https://iscoutgame.com/en/home) - Internationales gelichzeitiges online-Spiel 
+- [iScout](https://iscoutgame.com/en/home) - Internationales gelichzeitiges online-Spiel
 - [Friedenslicht](https://www.friedenslicht.de/) - Friedenslicht aus Bethlehem
 - [JOTA-JOTI](https://jota-joti.de/) - Jamboree on the air - Jamobree on the Internet
 
