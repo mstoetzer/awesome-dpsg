@@ -47,6 +47,7 @@ This awesome list collects Open Source projects, web applications, interesting w
 - [NaMi cli](https://github.com/webratz/pynami) - `alpha state` Cli to interact with NaMi API
 - [Nami doku](https://doku.dpsg.de/spacedirectory/view.action) - Nami Dokumentation
 - [NaMi Sepa](https://github.com/thisni1s/nami-sepa) - Tool to extract sepa mandates from NaMi and create SEPA XML files for direct debits.
+- [NaMi Tortendiagramm Generator](https://codeberg.org/thefeiter/DIYNaMi) - Tool zum erstellen eines farblich korrekten Tortendiagramm zur Übersicht über die Mitglieder des Stammes.
 
 ## Design and Themes
 
