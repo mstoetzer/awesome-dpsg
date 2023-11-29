@@ -28,6 +28,7 @@ This awesome list collects Open Source projects, web applications, interesting w
 ## Self Hosted Web Applications
 
 - [Akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software
+- [Keila](https://www.keila.io) - Self-hosted reliable and easy-to-use newsletter tool (alternative to Mailchimp or Sendinblue). ([Demo](https://app.keila.io), [Source Code](https://github.com/pentacent/keila)) `AGPL-3.0` `Docker`
 - [Limesurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web
 - [Bookstack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content
 - [OpenSlides](https://github.com/OpenSlides/OpenSlides) - Free, web based presentation system for managing agenda, motions and elections of an assembly
