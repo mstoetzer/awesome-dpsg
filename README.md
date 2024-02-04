@@ -50,6 +50,8 @@ This awesome list collects Open Source projects, web applications, interesting w
 - [Nami doku](https://doku.dpsg.de/spacedirectory/view.action) - Nami Dokumentation
 - [NaMi Sepa](https://github.com/thisni1s/nami-sepa) - Tool to extract sepa mandates from NaMi and create SEPA XML files for direct debits.
 - [NaMi Tortendiagramm Generator](https://codeberg.org/dpsghuenfeld/DIYNaMi) - Tool zum erstellen eines farblich korrekten Tortendiagramm zur Übersicht über die Mitglieder des Stammes.
+- [NaMi-Go](https://github.com/thisni1s/nami-go) - Go Module zur einfachen Interaktion mit der NaMi
+- [NaMi-Cli](https://github.com/thisni1s/nami-cli) - Cli-Tool zur Interaktion mit der NaMi basierend auf [NaMi-Go](https://github.com/thisni1s/nami-go). Kann außerdem SEPA XML Dateien aus NaMi Daten erstellen, E-Mails an Mitglieder senden und ist als Binary verfügbar.
 
 ## Design and Themes
 
