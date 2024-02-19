@@ -91,7 +91,7 @@ This awesome list collects Open Source projects, web applications, interesting w
 ## Events and initiatives
 
 ### Germany
-- [IronScout](https://ironscout2023.de/ironscout/) - Ironcout 2023
+- [IronScout](https://ironscout24.de/) - Ironcout 2024
 
 ### International
 - [iScout](https://iscoutgame.com/en/home) - Internationales gelichzeitiges online-Spiel
