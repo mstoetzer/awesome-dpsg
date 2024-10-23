@@ -106,7 +106,7 @@ This awesome list collects Open Source projects, web applications, interesting w
 - [Querweltein/Zeltgeflüster](https://dpsg.de/de/magazin) - Verbandsmagazin online abrufen
 - [ScoutingNeverStops.de](https://www.scoutingneverstops.de/) - Ideensammlung aus der Corona-Pandemie
 - [DoesTheDogDie](https://www.doesthedogdie.com/) - Communitygestützte Unbedenklichkeitsprüfung von Filmen
-- [MyOSMatic](https://print.get-map.org/) - Kostenlose Landkarten aud OSM-Basis erstellen
+- [MyOSMatic](https://print.get-map.org/) - Kostenlose Landkarten auf OSM-Basis erstellen
 - [Pfadfinder Lagerfeuer Playlist](https://open.spotify.com/playlist/0SuPlHCl8sVmhOOuJA49WD) - Spotify Playlist
 -  [Jugendleiter Blog](https://www.jugendleiter-blog.de/)
 -  [Pfadfinder-Spiele.de](https://pfadfinder-spiele.de/)
