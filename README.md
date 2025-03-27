@@ -101,6 +101,7 @@ This awesome list collects Open Source projects, web applications, interesting w
 ## For parents and legal guardians
 - [FAQ für Eltern](https://dpsg.de/de/mach-mit/mitglied-werden/informationen-fuer-eltern) - Eltern-Info-Portal der DPSG
 - [Stammessuche](https://dpsg.de/de/stammessuche-20) - Suchmaschine für DPSG-Stämme vor Ort
+- [internationale Stammessuche](https://mapcomplete.org/scouting) - Suchmaschine für Pfadi-Stämme weltweit auf OSM-Basis
 
 ## Other online resources
 - [Querweltein/Zeltgeflüster](https://dpsg.de/de/magazin) - Verbandsmagazin online abrufen
