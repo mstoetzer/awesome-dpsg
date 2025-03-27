@@ -114,6 +114,9 @@ This awesome list collects Open Source projects, web applications, interesting w
 -  [100abentuer.de](https://100abenteuer.dpsg.de/wp/) - Sammlung Juffistufe
 -  [Rover-Wiki](https://wiki.rover.de) - Leitungs-Wiki für die Roverstufe
 
+## Other associations
+- [BdP on Github](https://github.com/pfadfinden) the non-denominational German scout association
+
 ---
 
 ## Contributing
