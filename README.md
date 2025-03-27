@@ -22,6 +22,7 @@ This awesome list collects Open Source projects, web applications, interesting w
     - [International](#international)
   - [For parents and legal guardians](#for-parents-and-legal-guardians)
   - [Other online resources](#other-online-resources)
+  - [Other associations](#other-associations)
   - [Contributing](#contributing)
   - [License](#license)
 
