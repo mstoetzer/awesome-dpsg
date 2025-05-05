@@ -50,6 +50,7 @@ This awesome list collects Open Source projects, web applications, interesting w
 - [NaMi EfZ Check](https://github.com/maehw/nami-efz-check) - Automate check of SGB VIII-Bescheinigung by its Identifikationsnummer (Erweitertes Führzungszeugnis, EfZ) by querying the NaMi web server
 - [NaMi cli](https://github.com/webratz/pynami) - `alpha state` Cli to interact with NaMi API
 - [Nami doku](https://doku.dpsg.de/spacedirectory/view.action) - Nami Dokumentation
+- [NaMi Community Management](https://ncm.dpsg.de) - Forum for the dialog about Nami
 - [NaMi Sepa](https://github.com/thisni1s/nami-sepa) - Tool to extract sepa mandates from NaMi and create SEPA XML files for direct debits.
 - [NaMi Tortendiagramm Generator](https://codeberg.org/dpsghuenfeld/DIYNaMi) - Tool zum erstellen eines farblich korrekten Tortendiagramm zur Übersicht über die Mitglieder des Stammes.
 - [NaMi-Go](https://github.com/thisni1s/nami-go) - Go Module zur einfachen Interaktion mit der NaMi
