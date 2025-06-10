@@ -108,6 +108,7 @@ This awesome list collects Open Source projects, web applications, interesting w
 - [internationale Stammessuche](https://mapcomplete.org/scouting) - Suchmaschine für Pfadi-Stämme weltweit auf OSM-Basis
 
 ## Other online resources
+- [digital.dpsg.de](https://digital.dpsg.de/) - Website der AG Digitale Infrastruktur und Tools
 - [Querweltein/Zeltgeflüster](https://dpsg.de/de/magazin) - Verbandsmagazin online abrufen
 - [ScoutingNeverStops.de](https://www.scoutingneverstops.de/) - Ideensammlung aus der Corona-Pandemie
 - [DoesTheDogDie](https://www.doesthedogdie.com/) - Communitygestützte Unbedenklichkeitsprüfung von Filmen
