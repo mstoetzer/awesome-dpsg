@@ -112,6 +112,11 @@ This awesome list collects Open Source projects, web applications, interesting w
 - [DoesTheDogDie](https://www.doesthedogdie.com/) - Communitygestützte Unbedenklichkeitsprüfung von Filmen
 - [MyOSMatic](https://print.get-map.org/) - Kostenlose Landkarten auf OSM-Basis erstellen
 - [Pfadfinder Lagerfeuer Playlist](https://open.spotify.com/playlist/0SuPlHCl8sVmhOOuJA49WD) - Spotify Playlist
+- Verzeichnisse mit Pfadiliedern
+  - [CorvusBot](https://t.me/CorvusBot) - Telegram Bot
+  - [LiederBot](https://t.me/lieder_bot) - Telegram Bot
+  - [liederquelle.de](https://liederquelle.de/) - Website
+  - [Liedgutverzeichnis](https://f-droid.org/de/packages/de.thefeiter.liedgutverzeichnis/) - Android App
 -  [Jugendleiter Blog](https://www.jugendleiter-blog.de/)
 -  [Pfadfinder-Spiele.de](https://pfadfinder-spiele.de/)
 -  The DIG Studios: [Instagram](https://www.instagram.com/thedigstudios/),  [YouTube](https://www.youtube.com/@thedigstudios/videos)
