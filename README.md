@@ -55,6 +55,7 @@ This awesome list collects Open Source projects, web applications, interesting w
 - [NaMi Tortendiagramm Generator](https://codeberg.org/dpsghuenfeld/DIYNaMi) - Tool zum erstellen eines farblich korrekten Tortendiagramm zur Übersicht über die Mitglieder des Stammes.
 - [NaMi-Go](https://github.com/thisni1s/nami-go) - Go Module zur einfachen Interaktion mit der NaMi
 - [NaMi-Cli](https://github.com/thisni1s/nami-cli) - Cli-Tool zur Interaktion mit der NaMi basierend auf [NaMi-Go](https://github.com/thisni1s/nami-go). Kann außerdem SEPA XML Dateien aus NaMi Daten erstellen, E-Mails an Mitglieder senden und ist als Binary verfügbar.
+- [NaMi historische Mitgliedszahlen](https://github.com/JanneckLange/NamiStats) - Programm zum lesen und auswerten aller Rechnungen zur generierung eines Mitgliedszahlen-Liniendiagrams.
 
 ## Design and Themes
 
