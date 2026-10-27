@@ -41,6 +41,7 @@ This awesome list collects Open Source projects, web applications, interesting w
 - [Adrema](https://github.com/zoomyboy/adrema) - Management for group members and frontend for NaMi
 - [iscout-task-dispatch](https://github.com/dpsg-beckum/iscout-task-dispatch) - `Work in progress` Basic Task Managment for the game [iScout](https://iscoutgame.com). ([Demo](https://itd-test.remote1.jonahwille.de))
 - [Opencloud](https://github.com/opencloud-eu) - An alternative to Nextcloud
+- [MAP – Modulare Anmeldeplattform](https://github.com/florianschleuss/map-dpsg) - Self-hosted event registration for scout groups, with customizable forms, participant management and waiting lists. `Docker`
 
 ## NaMi Helper Tools
 
